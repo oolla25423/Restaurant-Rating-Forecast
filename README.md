@@ -91,3 +91,8 @@ jupyter notebook notebook.ipynb
 - **Accuracy:** 60.7%
 - **F1 (weighted):** 0.580
 - **Параметры:** n_estimators=100, learning_rate=0.05, max_depth=3, subsample=0.8
+
+## Источник данных
+
+Dataset: [Zomato Restaurant Dataset](https://www.kaggle.com/datasets/gauravkumar2525/zomato-restaurant-dataset) на Kaggle  
+Содержит информацию о 826 ресторанах из 17 городов Индии с данными о кухнях, рейтингах, ценах и других параметрах.
