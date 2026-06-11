@@ -36,6 +36,16 @@ python app.py
 
 ![Restaurant Rating Predictor](images/demo.png)
 
+## Метрики данных и модели
+
+![Class Distribution](images/data_analysis.png)
+
+![Confusion Matrix](images/comparison_table.png)
+
+![ROC Curve](images/best_model_evaluation.png)
+
+![Feature Importance](images/feature_importance.png)
+
 ## Параметры модели (7 признаков)
 
 | Параметр | Описание | Тип |
