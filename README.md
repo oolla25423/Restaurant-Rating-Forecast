@@ -32,6 +32,10 @@ python app.py
 # Открыть http://localhost:5000
 ```
 
+## Демонстрация
+
+![Restaurant Rating Predictor](images/demo.png)
+
 ## Параметры модели (7 признаков)
 
 | Параметр | Описание | Тип |
